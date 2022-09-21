@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dovla444
-- 👀 I’m interested in Python, ML, Django, Pandas, Pulp, DL & AI
+- 👀 I’m interested in Python,Javascript, ML, Django, Nodejs, Pandas, Pulp, DL & AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : vladimir@spoljarec.com
