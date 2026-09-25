@@ -1,0 +1,8 @@
+// The only file you need to edit before building on your devices.
+//
+// DEVELOPMENT_TEAM: your Apple Developer Team ID (Xcode → Settings → Accounts, or developer.apple.com → Membership).
+// TIDE_BUNDLE_PREFIX: a reverse-DNS prefix you own, e.g. com.spoljarec. Bundle IDs, the App Group and the
+//                     Keychain group are all derived from it in Tide.xcconfig.
+
+DEVELOPMENT_TEAM = XXXXXXXXXX
+TIDE_BUNDLE_PREFIX = com.example

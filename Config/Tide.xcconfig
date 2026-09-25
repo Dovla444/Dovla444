@@ -1,0 +1,15 @@
+// Shared build settings for every target. Edit Signing.xcconfig, not this file.
+
+#include "Signing.xcconfig"
+
+TIDE_APP_BUNDLE_ID = $(TIDE_BUNDLE_PREFIX).tide
+TIDE_APP_GROUP = group.$(TIDE_BUNDLE_PREFIX).tide
+TIDE_KEYCHAIN_GROUP = $(TIDE_BUNDLE_PREFIX).tide.shared
+
+CODE_SIGN_STYLE = Automatic
+IPHONEOS_DEPLOYMENT_TARGET = 18.0
+TARGETED_DEVICE_FAMILY = 1,2
+SWIFT_VERSION = 6.0
+SWIFT_STRICT_CONCURRENCY = complete
+MARKETING_VERSION = 0.1
+CURRENT_PROJECT_VERSION = 1
